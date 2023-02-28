@@ -1,5 +1,6 @@
 # Version 1.0.1
-## A simple washing machine control program in C: This program allows the user to control the mode and setting of the washing machine. The user can choose from three modes (delicate, normal, and heavy duty) and three settings (low, medium, and high). The program loops until the user chooses to turn off the washing machine.
+## A simple washing machine control program in C:
+## This program allows the user to control the mode and setting of the washing machine. The user can choose from three modes (delicate, normal, and heavy duty) and three settings (low, medium, and high). The program loops until the user chooses to turn off the washing machine.
 
 
 ## Version: 1.0.1 is an Optimised version of 1.0
